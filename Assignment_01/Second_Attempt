@@ -37,7 +37,7 @@
     "target=_blank" makes the link open in a new tab <-- GPT says its good practice
     "View Venue on Google Maps" is the visible text for the link
     -->
-    <a href="https://maps.app.goo.gl/Rmo3G8JgaZTSYVdMA" target="_blank">
+    <a href="https://maps.app.goo.gl/eKJm6qxwgpSxtUFb9" target="_blank">
         View Venue on Google Maps
     </a>
     
