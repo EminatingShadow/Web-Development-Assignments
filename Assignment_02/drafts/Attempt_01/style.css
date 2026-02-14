@@ -1,0 +1,22 @@
+
+body {
+    margin: 0; 
+    text-align: center;
+}
+
+div {
+    margin: auto;
+}
+
+#grad {
+    min-height: 100vh;
+    background-image: linear-gradient(to top, rgb(27, 37, 95), rgb(55, 144, 216));
+}
+
+#black {
+    background-color: black;
+    color: white;              
+    display: inline-block;     
+    padding: 20px;             
+    margin-top: 20px;
+}
